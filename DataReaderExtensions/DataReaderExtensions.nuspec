@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0.0</version>
+    <title>DataReaderExtensions</title>
+    <authors>Christian Guzman</authors>
+    <owners>Christian Guzman</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>If you feel that the IDataReader interface could use some work, here is your change. DataReaderExtensions focuses on empowering the IDataReader interface through new method extensions that will make your code a lot cleaner.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>IDataReader Data System.Data DataReader DataReaderExtensions DBNostalgia ChristianGuzman ChristianG Christian Reader Extensions Data</tags>
+  </metadata>
+</package>
