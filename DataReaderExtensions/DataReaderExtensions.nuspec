@@ -6,12 +6,12 @@
     <title>DataReaderExtensions</title>
     <authors>Christian Guzman</authors>
     <owners>Christian Guzman</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <licenseUrl>https://github.com/cg-h4voK/data-reader-extensions</licenseUrl>
+    <projectUrl>https://github.com/cg-h4voK/data-reader-extensions</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/cg-h4voK/data-reader-extensions/master/DataReaderExtensionsIcon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>If you feel that the IDataReader interface could use some work, here is your change. DataReaderExtensions focuses on empowering the IDataReader interface through new method extensions that will make your code a lot cleaner.</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>First release with all Get methods that accept the column name instead of the ordinal. Also all nullable methods.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>IDataReader Data System.Data DataReader DataReaderExtensions DBNostalgia ChristianGuzman ChristianG Christian Reader Extensions Data</tags>
   </metadata>
