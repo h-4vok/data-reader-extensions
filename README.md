@@ -50,12 +50,10 @@ This is what your code would look like, assuming your field is a DateTime. I am 
 
 ```C#
 int ordinal = reader.GetOrdinal("NullableDate");
-object value = reader.GetValue(ordinal);
+if (reader.IsDBNull(ordinal))
+    return;
 
-if (DBNull.Value.Equals(value))
-    return null;
-
-return (DateTime)value;
+DateTime value = reader.GetDateTime(ordinal);
 ```
 
 I tried to be clean. But man that's a bunch of lines for such a simple operation! Let's see what happens when we use our library.
