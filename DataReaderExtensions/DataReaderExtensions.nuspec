@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>DataReaderExtensions</title>
     <authors>Christian Guzman</authors>
     <owners>Christian Guzman</owners>
-    <licenseUrl>https://github.com/cg-h4voK/data-reader-extensions</licenseUrl>
-    <projectUrl>https://github.com/cg-h4voK/data-reader-extensions</projectUrl>
+    <licenseUrl>https://github.com/h-4voK/data-reader-extensions</licenseUrl>
+    <projectUrl>https://github.com/h-4voK/data-reader-extensions</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/cg-h4voK/data-reader-extensions/master/DataReaderExtensionsIcon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>If you feel that the IDataReader interface could use some work, here is your change. DataReaderExtensions focuses on empowering the IDataReader interface through new method extensions that will make your code a lot cleaner.</description>
